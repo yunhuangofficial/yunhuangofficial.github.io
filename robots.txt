@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://expansiveai.web.illinois.edu/sitemap-index.xml
-Host: https://expansiveai.web.illinois.edu
