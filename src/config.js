@@ -18,6 +18,10 @@ module.exports = {
       name: 'X',
       url: 'https://twitter.com/YunHuang_HCI',
     },
+    {
+      name: 'Instagram',
+      url: 'https://www.instagram.com/yunhuang_hci/',
+    }
   ],
 
   navLinks: [
